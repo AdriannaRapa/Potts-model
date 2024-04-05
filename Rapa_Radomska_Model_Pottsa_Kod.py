@@ -1,5 +1,4 @@
-""" Rapa Adrianna, Radomska Małgorzata, Inżynieria i Analiza Danych, rok 1, semestr 2
-    Wprowadzenie do programowania w języku Python - projekt
+""" Wprowadzenie do programowania w języku Python - projekt
     Model Pottsa """
 
 import numpy as np
